@@ -1,0 +1,7 @@
+[package]
+name = "counting_errors_in_a_test_file"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+num_cpus = "1.17.0"
